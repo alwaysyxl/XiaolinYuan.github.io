@@ -1,3 +1,9 @@
+# 个人信息
+西南交通大学
+载运工具运用工程
+研究生在读
+445404842@
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alwaysyxl/XiaolinYuan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
